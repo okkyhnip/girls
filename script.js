@@ -729,7 +729,7 @@ behavior:"Moderato"
 // ------------------------------
 
 console.log("❤️ Happy Girlfriend Day ❤️");
-console.log("Made with Love for Ratna Dwi Hapsar");
+console.log("Made with Love for Ratna Dwi Hapsari");
 console.log("By Naufazz");
 
 // ======================================
